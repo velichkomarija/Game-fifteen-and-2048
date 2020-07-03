@@ -1,0 +1,11 @@
+*.iml
+.gradle
+.idea/
+*.iws
+.DS_Store
+Task/build
+/captures
+.externalNativeBuild
+Games/Task/build
+Games/Task/out
+
